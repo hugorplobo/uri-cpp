@@ -30,5 +30,6 @@ int main() {
         << "R1 = " << x1 << endl
         << "R2 = " << x2 << endl;
 
+    return 0;
 }
 
